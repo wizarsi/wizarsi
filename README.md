@@ -1,6 +1,6 @@
 # Hi there ✌️
 
-- 🎓 I'm a 2nd years student of ITMO University. My major is programming engeniering
+- 🎓 I'm a 2nd years student of ITMO University. My major is programming engineering
 - 🌱 I’m currently learning Spring Framework, React/React Native
 - 🔭 I’m currently working on University labs
 - 🏆 VTB API Hackathon done!

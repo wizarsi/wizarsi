@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Spring Framework, Kotlin, Java
 - 🔭 I’m currently working on a project API Gateway TYK
 - 🏆 VTB API Hackathon done!
-- 💬 Ask me about anything in [vk](https://vk.com/just_andreew) or [telegram](https://t.me/silmont) 
+- 💬 Ask me about anything in [telegram](https://t.me/silmont) 
 
 <br/>
 <p align="left">

@@ -1,9 +1,8 @@
 # Hi there ✌️
 
-- 🎓 I'm a 2nd years student of ITMO University. My major is programming engineering
-- 🌱 I’m currently learning Spring Framework, Java, Kotlin
+- 🎓 I'm a 3d years student of ITMO University. My major is programming engineering
+- 🌱 I’m currently learning Spring Framework, Java.
 - 🔭 I’m currently working on a project API Gateway TYK
-- 🏆 VTB API Hackathon done!
 - 💬 Ask me about anything in [telegram](https://t.me/silmont) 
 
 <br/>
